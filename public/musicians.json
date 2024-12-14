@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Eric Clapton",
+    "photo": "/photos/eric-clapton.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jimi Hendrix",
+    "photo": "/photos/jimi-hendrix.jpg"
+  },
+  {
+    "id": 3,
+    "name": "BB King",
+    "photo": "/photos/bb-king.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Stevie Ray Vaughan",
+    "photo": "/photos/stevie-ray-vaughan.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gary Moore",
+    "photo": "/photos/gary-moore.jpg"
+  },
+  {
+    "id": 6,
+    "name": "ZZ Top",
+    "photo": "/photos/zz-top.jpg"
+  }
+]
